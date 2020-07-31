@@ -1,4 +1,4 @@
-# Dice Roll Game :dice: 
+# Dice Roll Game :game_die: 
 
 > This is a simple dice game where you can role a dice multiple times to get a random number from 1 to 6
 > May help you if you forget your dice while playing LUDO
